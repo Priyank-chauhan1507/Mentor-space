@@ -1,0 +1,46 @@
+[
+  {
+      "question":"How do I ask a doubt?",
+      "answer":"Once you enter your phone number on our website, you will receive a message on WhatsApp from the Mentor Match ChatBot. It will guide you on how to ask your doubt!"
+  }, 
+  {
+    "question":"How do I get connected with my Mentor?",
+    "answer":"After our WhatsApp bot collects the details of your question via chat, you will receive a video call link. (Don't worry, your camera is automatically turned off)"
+  }, 
+  {
+    "question":"Does the video call happen on WhatsApp?",
+    "answer":"No, the video call happens on our video calling platform, you will receive the video call link on WhatsApp."
+  }, 
+  {
+    "question":"I'm a bit introverted. Do I have to speak?",
+    "answer":"We completely understand. By default, your camera will always be turned off. If you don't feel like talking on the call, you don't have to! All we urge you to do is reply when the Mentor asks you if they are audible and if you understood your doubt. Our team is currently working on an Introvert Mode where students can text in real-time as the Mentor explains on call!"
+
+    
+  }, 
+  {
+    "question":"Can I use this service for free?",
+    "answer":"Yes our service is absolutely free and you can ask how many ever doubts you want!"
+  }, 
+  {
+    "question":"How long does it take to get connected to a Mentor?",
+    "answer":"It generally takes 3-5 minutes to get connected to a Mentor. (Please bear with us if it takes a little longer than that, we're always searching for your perfect match!)"
+  }, 
+  {
+    "question":"How do I get connected with my Mentor?",
+    "answer":"After our WhatsApp bot collects the details of your question via chat, you will receive a video call link. (Don't worry, your camera is automatically turned off)"
+  }, 
+  {
+    "question":"How many doubts can I ask on the platform for free?",
+    "answer":"You can ask unlimited doubts for free!"
+  }, 
+  {
+    "question":"Is my number shared with the Mentor?",
+    "answer":"No, your privacy is our priority. We keep your information safe!"
+  }, 
+  {
+    "question":"Is my information safe with Mentor Match?",
+    "answer":"We respect the privacy of each and every individual. Your personal information stays with us and is not shared with anyone."
+  } 
+  
+
+]
