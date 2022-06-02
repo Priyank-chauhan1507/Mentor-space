@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Mentor-space/static/css/main.e6a21202.css",
+    "main.js": "/Mentor-space/static/js/main.07f97a0c.js",
+    "static/js/787.97ae2f7f.chunk.js": "/Mentor-space/static/js/787.97ae2f7f.chunk.js",
+    "static/media/teacher.png": "/Mentor-space/static/media/teacher.84edbfb0ab34157eb349.png",
+    "static/media/Education.png": "/Mentor-space/static/media/Education.ca0961bf7e6bee9e9804.png",
+    "static/media/Img1.png": "/Mentor-space/static/media/Img1.d7edc882be010fdc954b.png",
+    "static/media/Img5.png": "/Mentor-space/static/media/Img5.f3218718292ad50ac771.png",
+    "static/media/Ellipse 3.png": "/Mentor-space/static/media/Ellipse 3.a76cdc17c1185eb20dbf.png",
+    "static/media/Img4.png": "/Mentor-space/static/media/Img4.a39f8bd9ce37d8ef2fbf.png",
+    "static/media/Img2.png": "/Mentor-space/static/media/Img2.253a4d908de7c8e4db56.png",
+    "static/media/Ellipse 1.png": "/Mentor-space/static/media/Ellipse 1.4404a925c82af775cd3e.png",
+    "static/media/conselling 1.png": "/Mentor-space/static/media/conselling 1.ee4c39f66aa4130fee98.png",
+    "static/media/Ellipse 2.png": "/Mentor-space/static/media/Ellipse 2.768cedbf54c67fb36c64.png",
+    "static/media/homework help 1.png": "/Mentor-space/static/media/homework help 1.2710bf8b5749d8ba0049.png",
+    "static/media/Img6.png": "/Mentor-space/static/media/Img6.4ee844d56262ece2a526.png",
+    "static/media/Img3.png": "/Mentor-space/static/media/Img3.05afeb88b46be87e82ae.png",
+    "static/media/Ellipse 6.png": "/Mentor-space/static/media/Ellipse 6.a09e60eaf475a4da72c0.png",
+    "static/media/step2.png": "/Mentor-space/static/media/step2.dd9a547bd224c4824612.png",
+    "static/media/step3.png": "/Mentor-space/static/media/step3.80cb7656414d49e89c3c.png",
+    "static/media/doubts 1.png": "/Mentor-space/static/media/doubts 1.52504e91f805d9e5db3b.png",
+    "static/media/exam preparation 1.png": "/Mentor-space/static/media/exam preparation 1.472327cea5088e000d31.png",
+    "static/media/numri 1.png": "/Mentor-space/static/media/numri 1.c4c1837be39a57ba92a8.png",
+    "static/media/step1.png": "/Mentor-space/static/media/step1.8ec96238e1905fe5766e.png",
+    "static/media/step4.png": "/Mentor-space/static/media/step4.282c169db05713a9e4f4.png",
+    "static/media/concept 1.png": "/Mentor-space/static/media/concept 1.46f67e5d8a76095ac996.png",
+    "static/media/img3.png": "/Mentor-space/static/media/img3.8d3e5c1a06dcd12ca3c9.png",
+    "static/media/img1.png": "/Mentor-space/static/media/img1.ce9177dcf021054545ff.png",
+    "static/media/img2.png": "/Mentor-space/static/media/img2.d6a8eb6f56078900bc95.png",
+    "static/media/student.webp": "/Mentor-space/static/media/student.86819187f621d8e81543.webp",
+    "index.html": "/Mentor-space/index.html",
+    "main.e6a21202.css.map": "/Mentor-space/static/css/main.e6a21202.css.map",
+    "main.07f97a0c.js.map": "/Mentor-space/static/js/main.07f97a0c.js.map",
+    "787.97ae2f7f.chunk.js.map": "/Mentor-space/static/js/787.97ae2f7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a21202.css",
+    "static/js/main.07f97a0c.js"
+  ]
+}
