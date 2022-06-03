@@ -47,8 +47,8 @@ const About = () => {
       
        <div className="flex justify-center items-center space-x-4  md:space-x-20 my-16 py-5 shadow-2xl">
 
-      { rating.map((e)=>{
-         return  <div className="flex flex-col text-[#2E3249]">
+      { rating.map((e, i)=>{
+         return  <div  key={i} className="flex flex-col text-[#2E3249]">
       <div className="flex "> <span className="font-bold text-3xl">{e.number}</span> <img  className="w-12" src={e.imgUrl} alt=""/></div>
       <div className="font-medium text-lg">{e.title}</div>
            </div>

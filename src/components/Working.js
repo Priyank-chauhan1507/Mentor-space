@@ -20,9 +20,10 @@ const Working = () => {
     <div className="workingSteps">
      
         <div className="text-[#2E3249] font-bold text-3xl flex justify-center mb-16">How it Works</div>
-          {Steps.map((e)=>(
-
-         <div  key ={e.step} className={`flex justify-evenly flex-${e.step%2===0?"row-reverse":"row"}  pl-32`}>
+          {Steps.map((e, i)=>(
+             
+         <div  key ={i} className={`flex  justify-evenly flex-${e.step%2===0?"row-reverse":"row"} pl-32`}>
+           
              <div className="text-[#2E3249] flex">
                  <div className="font-semibold text-[5rem] px-4">{e.step}</div>
                   <div className="pt-10">
@@ -32,9 +33,10 @@ const Working = () => {
  
              </div>
              
-              <img src= {e.imgUrl} className="w-44" alt=""/>
+              <img src= {e.imgUrl} className="md:w-40 w-28 " alt=""/>
 
              </div>
+
              
              ))}
          
